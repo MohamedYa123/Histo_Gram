@@ -1,0 +1,28 @@
+c:\users\محمد\documents\visual studio 2015\Projects\HistoGram\HistoGram\bin\Debug\HistoGram.exe.config
+c:\users\محمد\documents\visual studio 2015\Projects\HistoGram\HistoGram\bin\Debug\HistoGram.exe
+c:\users\محمد\documents\visual studio 2015\Projects\HistoGram\HistoGram\bin\Debug\HistoGram.pdb
+c:\users\محمد\documents\visual studio 2015\Projects\HistoGram\HistoGram\obj\Debug\HistoGram.csprojResolveAssemblyReference.cache
+c:\users\محمد\documents\visual studio 2015\Projects\HistoGram\HistoGram\obj\Debug\HistoGram.Form1.resources
+c:\users\محمد\documents\visual studio 2015\Projects\HistoGram\HistoGram\obj\Debug\HistoGram.Properties.Resources.resources
+c:\users\محمد\documents\visual studio 2015\Projects\HistoGram\HistoGram\obj\Debug\HistoGram.csproj.GenerateResource.Cache
+c:\users\محمد\documents\visual studio 2015\Projects\HistoGram\HistoGram\obj\Debug\HistoGram.exe
+c:\users\محمد\documents\visual studio 2015\Projects\HistoGram\HistoGram\obj\Debug\HistoGram.pdb
+E:\مشاريع\HistoGram\HistoGram\bin\Debug\HistoGram.exe.config
+E:\مشاريع\HistoGram\HistoGram\obj\Debug\HistoGram.exe
+E:\مشاريع\HistoGram\HistoGram\obj\Debug\HistoGram.pdb
+E:\مشاريع\HistoGram\HistoGram\bin\Debug\HistoGram.exe
+E:\مشاريع\HistoGram\HistoGram\bin\Debug\HistoGram.pdb
+E:\مشاريع\HistoGram\HistoGram\obj\Debug\HistoGram.csprojResolveAssemblyReference.cache
+E:\مشاريع\HistoGram\HistoGram\obj\Debug\HistoGram.Form1.resources
+E:\مشاريع\HistoGram\HistoGram\obj\Debug\HistoGram.Properties.Resources.resources
+E:\مشاريع\HistoGram\HistoGram\obj\Debug\HistoGram.csproj.GenerateResource.Cache
+F:\old is gold\مشاريع\HistoGram\HistoGram\bin\Debug\HistoGram.exe.config
+F:\old is gold\مشاريع\HistoGram\HistoGram\bin\Debug\HistoGram.exe
+F:\old is gold\مشاريع\HistoGram\HistoGram\bin\Debug\HistoGram.pdb
+F:\old is gold\مشاريع\HistoGram\HistoGram\obj\Debug\HistoGram.csproj.AssemblyReference.cache
+F:\old is gold\مشاريع\HistoGram\HistoGram\obj\Debug\HistoGram.Form1.resources
+F:\old is gold\مشاريع\HistoGram\HistoGram\obj\Debug\HistoGram.Properties.Resources.resources
+F:\old is gold\مشاريع\HistoGram\HistoGram\obj\Debug\HistoGram.csproj.GenerateResource.cache
+F:\old is gold\مشاريع\HistoGram\HistoGram\obj\Debug\HistoGram.csproj.CoreCompileInputs.cache
+F:\old is gold\مشاريع\HistoGram\HistoGram\obj\Debug\HistoGram.exe
+F:\old is gold\مشاريع\HistoGram\HistoGram\obj\Debug\HistoGram.pdb
